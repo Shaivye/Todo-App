@@ -1,0 +1,54 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: Jokerman; 
+    color:blue;
+}
+td{
+    background: yellow;
+}
+table{
+    padding: 2px;
+    margin: auto;
+    border: none;
+}
+th{
+    padding: 30px;
+    background-color: tomato;
+    
+}
+
+.tt{
+    text-align: center;
+}
+tr{
+    height: 45px;
+    font-size: 35px;
+    font-family:Candara;
+}
+.but{
+    text-align: center;
+}
+.des{
+    background-color: pink;
+    width: 350px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+input{
+    margin-left: 35%;
+    padding-top: 10px;
+  border-color: black;
+    border-width: medium;
+    font-size: 25px;
+    
+}
+button{
+     font-size: candara;
+     size: 30px;
+     height: 40px;
+     width: 70px;
+     margin: auto;
+     
+}
